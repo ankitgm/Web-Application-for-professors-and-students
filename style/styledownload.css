@@ -1,0 +1,19 @@
+th
+{
+	color: white;
+	font-size: 40px;	
+}
+
+td
+{
+	color: white;
+	font-size: 25px;
+}
+
+table
+{
+	border: 5px solid white;
+	border-radius: 30px;
+	border-spacing: 20px;
+	
+}
